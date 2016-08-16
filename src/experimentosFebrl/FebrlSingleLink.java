@@ -25,7 +25,7 @@ public class FebrlSingleLink {
         //o parametro de tamanho deve variar para alterar a porcentagem de dados excluídos.
         //BlockIndex bi2 = queryTradicional1.blocaConsultaReduzidaFixa(queryTradicional1.carregaDadosCD(), 200);
         BlockIndex bi2 = queryTradicional1.blocaConsultaFebrl(queryTradicional1.carregaDadosFebrl());
-
+      
         BlockIndex bi1 = new BlockIndex();
         SimilarityIndex si1 = new SimilarityIndex();
         SingleLink cluster = new SingleLink(si1, bi1);
