@@ -1,0 +1,11 @@
+rec_id;rec2_id;culture;sex;age;date;title;given_name;surname;state;suburb;postcode;street;address1;address2;phone;soc;blocking;family;id
+rec-92378-dup-0;rec-62886-org;unk;m;28;19880 09;ms;samuel;stranger;ac;jamison centre;4165;7;allwood street;;612 72147742;7123683;9;NoRole;0
+rec-42454-dup-0;rec-8414-org;usa;m;28;19880909;;kyah;osullivan;qld;dalrymple heights;2800;29;;;03 10748619;4036714;0;NoRole;1
+rec-95527-dup-0;rec-84961-org;ser;;20;;;lachlan;dizdarevic;vic;4820;cabarita;1;angas street;rosehill;618 15899998;6911585;2;NoRole;2
+rec-74711-org;rec-42275-org;eng;f;23;19930615;;emiily;;vic;birregurra;2126;15;moorehead place;enter boolwey s street;;5769597;6;NoRole;3
+rec-13666-dup-1;rec-86698-org;tur;f;24;19921220;mr;jasper;aytin;vic;deans marsh;3122;13;lee-steere krescent;;8 48072296;2769388;6;NoRole;4
+rec-52494-org;rec-59912-org;unk;f;;19090706;;simone;;qld;isis central;3097;24;mackinolty street;;03 49117499;3427193;5;NoRole;5
+rec-81795-dup-0;rec-40421-org;chi;;31;19851231;;indis;sze;wa;west end;4680;195;outtrim avenue;;08 12866243;3561047;9;NoRole;6
+rec-70584-org;rec-43228-org;eng;f;28;19880618;dr;annalise;babcoke;qld;jimbour;2450;53;clancy street;;613 95106738;2292757;1;NoRole;7
+rec-92378-org;rec-62886-org;unk;m;28;19880909;ms;samuel;stranger;act;jamison centre;4165;7;allwood street;;612 72147742;7123683;9;NoRole;50307
+rec-42454-org;rec-8414-org;usa;m;28;19880909;;kyah;sullivan;qld;dalrymple heights;2800;29;;;3 33579751;4036714;0;NoRole;19504
